@@ -16,6 +16,38 @@ In the ChatGPT GPT Builder for the official account:
 2. Paste the contents of `instructions.md` into the Instructions field.
 3. Upload `index.md` and all `knowledge_*.md` files as knowledge files.
 
+## Recommended Conversation Starters
+
+Use these as the visible starter prompts in the GPT:
+
+- `Какви проблеми виждат в България и с какви примери от срещи ги обясняват?`
+- `Защо казват, че са влезли в политиката и как го обясняват в срещите?`
+- `Какви решения предлагат и има ли конкретни идеи от срещите?`
+- `Как говорят за българите в чужбина и какво точно казват в срещите?`
+
+## How To Configure It In Custom GPT
+
+These starter prompts are configured in the GPT editor, not inside the uploaded files.
+
+In ChatGPT on the web:
+
+1. Open `Explore GPTs` and create or edit the target GPT.
+2. Go to the `Configure` tab.
+3. Fill in the user-facing fields:
+   - `Name`
+   - `Description`
+   - `Conversation starters`
+4. Paste the four starter prompts above into the `Conversation starters` section.
+5. Paste `instructions.md` into `Instructions`.
+6. Upload `index.md` and all `knowledge_*.md` files into `Knowledge`.
+7. Save or publish the GPT.
+
+General rule:
+
+- `Instructions` control behavior
+- `Knowledge` provides source material
+- `Conversation starters` are only example opening questions shown to the user
+
 ## Source Scope
 
 - Corpus source: YouTube meeting transcripts from the `@SvobodenGlas` channel
