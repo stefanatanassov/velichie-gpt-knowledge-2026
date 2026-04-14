@@ -7,6 +7,7 @@ This folder contains the public handoff bundle for a Custom GPT focused on archi
 - `instructions.md`: the GPT instructions/system prompt drafted for the agent
 - `index.md`: corpus index of included meetings
 - `knowledge_01.md` to `knowledge_09.md`: transcript knowledge files for upload
+- `setup_guide_bg.md`: detailed Bulgarian setup guide for creating and configuring the GPT from a new official account
 
 ## Intended Usage
 
