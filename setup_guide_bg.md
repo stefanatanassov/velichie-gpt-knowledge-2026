@@ -234,7 +234,7 @@
 
 За актуалния поток и ограничения проверявайте и официалната документация на OpenAI:
 
-- ChatGPT Plus: [https://help.openai.com/en/articles/6950777-what-is-chatgpt](https://help.openai.com/en/articles/6950777-what-is-chatgpt)
+- ChatGPT Plus: [https://help.openai.com/en/articles/6950777-chatgpt-plus](https://help.openai.com/en/articles/6950777-chatgpt-plus)
 - Creating and editing GPTs: [https://help.openai.com/en/articles/8770868-gpt-builder](https://help.openai.com/en/articles/8770868-gpt-builder)
 - Knowledge in GPTs: [https://help.openai.com/en/articles/8843948-knowledge-in-gpts](https://help.openai.com/en/articles/8843948-knowledge-in-gpts)
 
